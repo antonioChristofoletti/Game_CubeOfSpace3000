@@ -6,11 +6,9 @@ Project developed by me and my friends during the High School. Certainly isn't s
 
 I programmed the game by myself and my friends took care of the others contents like: the concept art, musics and gameplay.
 
-There are soundtracks too from the game Megaman X4 and Megaman X5 !_!.
+## Presentation
 
 Game created to a project class.![Image Gif](https://user-images.githubusercontent.com/31052642/63641610-7eb22700-c687-11e9-9bd3-fb3d5b95e5af.gif)
-
-## Presentation
 
 [Project Slide](https://github.com/antonioChristofoletti/Game_CubeOfSpace3000_high_school_project/files/3537491/Slide.-.Cube.of.Space.3.000.pptx)
 
